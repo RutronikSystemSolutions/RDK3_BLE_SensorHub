@@ -10,7 +10,7 @@ The [RAB1-SENSORFUSION](https://www.rutronik24.com/product/rutronik/rab1-sensorf
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2.4
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
 
 ## The Provisioning of the RDK3
 
